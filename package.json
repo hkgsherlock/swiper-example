@@ -2,6 +2,7 @@
   "name": "swiper-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hkgsherlock.github.io/swiper-example/",
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
     "gh-pages": "^1.1.0",
